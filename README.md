@@ -40,9 +40,7 @@ Mi background en ingeniería refuerza mi capacidad para abordar problemas comple
 
 ## 🚀 Objetivo Profesional
 
-Busco activamente roles de **Desarrollador Backend**, donde pueda seguir creciendo como profesional,  
-aportar soluciones que combinen **precisión técnica y visión estratégica**,  
-y formar parte de equipos que valoren la **innovación** y la **excelencia en el desarrollo web**.
+Busco activamente roles de **Desarrollador Backend**, donde pueda seguir creciendo como profesional, aportar soluciones que combinen **precisión técnica y visión estratégica**, y formar parte de equipos que valoren la **innovación** y la **excelencia en el desarrollo web**.
 
 ---
 ## ✨ Proyectos Destacados
