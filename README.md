@@ -43,6 +43,42 @@ aportar soluciones que combinen **precisión técnica y visión estratégica**,
 y formar parte de equipos que valoren la **innovación** y la **excelencia en el desarrollo web**.
 
 ---
+## Proyectos Destacados
+
+---
+
+### HR System *(Proyecto colaborativo – 2025)*  
+Web site de gestión de Recursos Humanos.  
+
+- **Rol:** Backend Developer  
+- **Funciones:** planificación de endpoints, entidades y user stories, procesos de autenticación y autorización, métodos de pago.  
+- **Tecnologías:** NestJS, Swagger, PostgreSQL, Clerk, Stripe, Graphviz DOT.  
+
+🔗 [Repositorio](https://github.com/HRSYSTEM-PROJECT/Back) | [Demo](https://back-8cv1.onrender.com/HR#/)
+
+---
+
+### Ecommerce API Backend *(Proyecto personal – 2025)*  
+API Backend para ecommerce.  
+
+- **Rol:** Backend Developer  
+- **Funciones:** creación de API para ecommerce con autenticación y autorización para rutas de administradores.  
+- **Tecnologías:** NestJS, Swagger, JWT, PostgreSQL.  
+
+🔗 [Repositorio](https://github.com/JMayIuit/Ecomerce-Backend-API) 
+
+---
+
+### Medical-Scheduling-App *(Proyecto personal – 2025)*  
+Web site para agendar citas médicas.  
+
+- **Rol:** Fullstack Developer  
+- **Funciones:** creación de web site para agendar citas médicas, así como la base de datos para alojar la información.  
+- **Tecnologías:** ExpressJS, React, PostgreSQL.  
+
+🔗 [Repositorio](https://github.com/JMayIuit/Medical-Scheduling-App) 
+
+---
 
 📫 **Conecta conmigo:**  
 [LinkedIn](https://www.linkedin.com/in/jesus-may-iuit-b4272234b) | [GitHub](https://github.com/JMayIuit)
