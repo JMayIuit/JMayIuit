@@ -82,6 +82,7 @@ Web site para agendar citas médicas.
 
 ---
 
-##📫 **Conecta conmigo:**  
+### 📫 Conecta conmigo: 
+
 [LinkedIn](https://www.linkedin.com/in/jesus-may-iuit-b4272234b) | [GitHub](https://github.com/JMayIuit)
 📧 [jmi_1416@hotmail.com](mailto:jmi_1416@hotmail.com)
