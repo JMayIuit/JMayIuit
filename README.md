@@ -1,4 +1,6 @@
 # 👋 Hola, soy **Jesus May Iuit**
+**Desarrollador Backend** | **NestJS** · **Node.js** · **TypeScript**
+📍 Mérida, Yucatán, México
 
 Soy un profesional con formación en **Ingeniería Física** y una **Especialidad en Ingeniería Aeronáutica**, apasionado por la **tecnología**, el **aprendizaje constante** y la **resolución de problemas complejos**.
 
@@ -43,7 +45,7 @@ aportar soluciones que combinen **precisión técnica y visión estratégica**,
 y formar parte de equipos que valoren la **innovación** y la **excelencia en el desarrollo web**.
 
 ---
-## Proyectos Destacados
+## ✨ Proyectos Destacados
 
 ---
 
@@ -80,6 +82,6 @@ Web site para agendar citas médicas.
 
 ---
 
-📫 **Conecta conmigo:**  
+##📫 **Conecta conmigo:**  
 [LinkedIn](https://www.linkedin.com/in/jesus-may-iuit-b4272234b) | [GitHub](https://github.com/JMayIuit)
 📧 [jmi_1416@hotmail.com](mailto:jmi_1416@hotmail.com)
